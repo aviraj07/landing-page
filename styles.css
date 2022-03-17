@@ -103,6 +103,11 @@ a{
    
 }
 
+section{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
 .btn{
     align-self: flex-start;
     padding: 10px 30px;
